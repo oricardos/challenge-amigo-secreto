@@ -1,5 +1,5 @@
 
-# Challenge Amigo Oculto
+# Challenge Amigo Secreto
 
 Projeto desenvolvido no Challenge da Alura no programa **One Next Education**.
 
